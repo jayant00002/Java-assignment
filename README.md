@@ -20,7 +20,7 @@ This service is part of the backend for an e-commerce platform. It manages user 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone[ https://github.com/your-username/your-repo-name.git](https://github.com/jayant00002/Java-assignment)
  
 
 2. Inside the application.properties file, update the datasource and JWT properties with your MySQL configurations and secret key.
